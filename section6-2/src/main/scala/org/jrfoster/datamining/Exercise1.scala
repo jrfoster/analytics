@@ -1,4 +1,4 @@
-package com.orionhealth.datamining
+package org.jrfoster.datamining
 
 object Exercise1 {
   

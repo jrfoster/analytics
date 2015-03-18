@@ -1,4 +1,4 @@
-package com.orionhealth.datamining
+package org.jrfoster.datamining
 
 object Exercise4 {
 	def main(args: Array[String]) = {

@@ -1,4 +1,4 @@
-package com.orionhealth.datamining
+package org.jrfoster.datamining
 
 import scala.collection.JavaConversions.mapAsScalaMap
 import scala.collection.immutable.Seq

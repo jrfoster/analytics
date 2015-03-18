@@ -1,4 +1,4 @@
-package com.orionhealth.datamining
+package org.jrfoster.datamining
 
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._

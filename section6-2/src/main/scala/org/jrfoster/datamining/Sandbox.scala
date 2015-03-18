@@ -1,4 +1,4 @@
-package com.orionhealth.datamining
+package org.jrfoster.datamining
 
 import scala.collection.JavaConversions
 import scala.collection.mutable.Buffer
